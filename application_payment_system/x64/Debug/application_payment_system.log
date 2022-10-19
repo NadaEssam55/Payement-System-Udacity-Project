@@ -1,0 +1,3 @@
+﻿  app.c
+C:\Users\Nada Essam\Desktop\project\application_payment_system\application_payment_system\app.c(15,9): warning C4013: 'exit' undefined; assuming extern returning int
+  application_payment_system.vcxproj -> C:\Users\Nada Essam\Desktop\project\application_payment_system\x64\Debug\application_payment_system.exe
